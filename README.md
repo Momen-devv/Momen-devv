@@ -1,61 +1,37 @@
-# Momen Abdelraouf
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Momen-devv.Momen-devv" alt="Profile visitors" />
 
-Software Engineer focused on backend development with Node.js, NestJS, and TypeScript.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;I'm+Momen+Abdelraouf;" alt="Hi There! I'm Momen Abdelraouf" />
+</h1>
 
-## Skills
+<h3 align="center">Software Engineer focused on backend development</h3>
 
-### Backend
+<br />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express.js" title="Express.js" />
-</p>
-
-REST APIs · Better Auth · JWT · BullMQ
-
-### Databases & Data Access
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis" />
-</p>
-
-SQL · Drizzle ORM · TypeORM · Mongoose
-
-### Cloud, Testing & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="42" height="42" alt="Jest" title="Jest" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" title="Postman" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" height="42" alt="Swagger" title="Swagger / OpenAPI" />
-</p>
-
-AWS S3 · Cloudinary · Stripe · Twilio · Resend · Nodemailer · Supertest · OpenAPI
-
-## Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/momen-elshamy-5b7006378/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/momen-elshamy-5b7006378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</p>
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" title="Coming Soon" />
+</div>
+
+<br />
+
+<h2 align="center">Languages · Frameworks · Tools</h2>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,mongodb,redis,docker,aws,git,jest,postman&perline=6" alt="TypeScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, Jest, and Postman" />
+</div>
+
+<br />
+
+<h2 align="center">GitHub Streak</h2>
+
+<br />
+
+<div align="center">
+  <img width="520" src="https://streak-stats.demolab.com/?user=Momen-devv&theme=react&border_radius=10" alt="Momen's GitHub streak" />
+</div>
