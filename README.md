@@ -33,5 +33,5 @@
 <br />
 
 <div align="center">
-  <img width="520" src="https://streak-stats.demolab.com/?user=Momen-devv&theme=react&border_radius=10" alt="Momen's GitHub streak" />
+  <img width="495" src="./profile/streak.svg" alt="Momen's GitHub streak" />
 </div>
