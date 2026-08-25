@@ -1,35 +1,54 @@
 # Momen Abdelraouf
 
-Backend developer working mainly with Node.js, NestJS, and TypeScript.
+Software Engineer focused on backend development with Node.js, NestJS, and TypeScript.
 
-## Technologies
+## Skills
 
-| Area | Tools |
-| --- | --- |
-| Languages | TypeScript, JavaScript, SQL |
-| Backend | Node.js, NestJS, Express.js, REST APIs |
-| Databases | PostgreSQL, MongoDB, Redis |
-| Data access | Drizzle ORM, TypeORM, Mongoose |
-| Authentication | Better Auth, JWT |
-| Background jobs | BullMQ |
-| Storage and media | AWS S3, Cloudinary |
-| Payments and communication | Stripe, Twilio, Resend, Nodemailer |
-| Testing and documentation | Jest, Supertest, Swagger/OpenAPI, Postman |
-| Development | Git, Docker |
+### Backend
 
-## Selected Projects
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express.js" title="Express.js" />
+</p>
 
-### [multitenant-ecommerce](https://github.com/Momen-devv/multitenant-ecommerce)
+REST APIs · Better Auth · JWT · BullMQ
 
-A NestJS backend for a multi-tenant e-commerce platform, built with PostgreSQL, Drizzle ORM, Redis, BullMQ, Better Auth, and S3-compatible storage.
+### Databases & Data Access
 
-### [NextLearn](https://github.com/Momen-devv/NextLearn)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis" />
+</p>
 
-A learning management system backend built with NestJS, PostgreSQL, TypeORM, Redis, and background jobs.
+SQL · Drizzle ORM · TypeORM · Mongoose
 
-### [ecommerce-api](https://github.com/Momen-devv/ecommerce-api)
+### Cloud, Testing & Tools
 
-An Express and MongoDB REST API covering authentication, catalog management, carts, orders, payments, file uploads, and notifications.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="42" height="42" alt="Jest" title="Jest" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" title="Postman" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" height="42" alt="Swagger" title="Swagger / OpenAPI" />
+</p>
+
+AWS S3 · Cloudinary · Stripe · Twilio · Resend · Nodemailer · Supertest · OpenAPI
 
 ## Contact
 
