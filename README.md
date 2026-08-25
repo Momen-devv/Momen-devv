@@ -52,4 +52,10 @@ AWS S3 · Cloudinary · Stripe · Twilio · Resend · Nodemailer · Supertest ·
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/momen-elshamy-5b7006378/)
+<p>
+  <a href="https://www.linkedin.com/in/momen-elshamy-5b7006378/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio — Coming Soon" />
+</p>
