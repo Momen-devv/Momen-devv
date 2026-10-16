@@ -8,9 +8,9 @@
 
 <br />
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack</h2> -->
 
-<br /> -->
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,mongodb,redis,docker,aws,git,jest,postman&perline=6" alt="TypeScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, Jest, and Postman" />
