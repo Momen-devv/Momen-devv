@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Momen-devv.Momen-devv" alt="Profile visitors" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Momen-devv.Momen-devv" alt="Profile visitors" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;I'm+Momen;" alt="Hi There! I'm Momen" />
@@ -10,7 +10,7 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<br />
+<br /> -->
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,postgres,mongodb,redis,docker,aws,git,jest,postman&perline=6" alt="TypeScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, AWS, Git, Jest, and Postman" />
